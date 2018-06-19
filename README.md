@@ -4,7 +4,7 @@
 Charles Mwathi
 
 ## Description
-This is a simple project illustrating how use webpack with a simple PingPong game.
+This is a simple project illustrating how to use webpack with a simple PingPong game.
 
 ## Setup
 ```
